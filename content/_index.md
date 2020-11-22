@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Musicstands.co.uk!"
+title: "Pet Shop for All"
 type: "top"
 menu: ""
 weight: 1
