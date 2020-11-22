@@ -1,0 +1,131 @@
+baseURL = "/"
+author = ""
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+# Above are configs from hugoBasicExample
+
+title = "Music Stands"
+theme = "hugo-primer"
+hasCJKLanguage = true
+summaryLength = 70
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+googleAnalytics = ""
+disqusShortname=""
+copyright = "&copy;Musicstands.co.uk 2020"
+
+
+
+
+[params]
+description = ""
+twitter = ""
+useIcon = false
+useTwitterCard = true
+# exampleSite must not have js share widget: #36
+# shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
+shareTo = []
+showFooterCredits = true
+math = true
+
+[[menu.main]]
+name = "Music Stands"
+URL = "/"
+weight = 1
+
+
+
+[[menu.main]]
+name = "Best Music Stands"
+URL = "/best-music-stands"
+weight = 0
+parent = "Music Stands"
+
+[[menu.main]]
+name = "Wooden Music Stands"
+URL = "/wooden-music-stands"
+weight = 0
+parent = "Music Stands"
+
+[[menu.main]]
+name = "Portable Music Stands"
+URL = "/portable-music-stands"
+weight = 0
+parent = "Music Stands"
+
+[[menu.main]]
+name = "DIY Music Stands"
+URL = "/DIY-music-stands"
+weight = 0
+parent = "Music Stands"
+
+[[menu.main]]
+name = "Heavy Duty Music Stands"
+URL = "/heavy-duty-music-stands"
+weight = 0
+parent = "Music Stands"
+
+[[menu.main]]
+name = "Conductor Music Stands"
+URL = "/conductor-music-stands"
+weight = 0
+parent = "Music Stands"
+
+[[menu.main]]
+name = "Folding Music Stands"
+URL = "/folding-music-stands"
+weight = 0
+parent = "Music Stands"
+
+[[menu.main]]
+name = "Music Stands For Schools"
+URL = "/music-stands-for-schools"
+weight = 0
+parent = "Music Stands"
+
+[[menu.main]]
+name = " Music Stands For Keyboards"
+URL = "/music-stands-for-keyboards"
+weight = 0
+parent = "Music Stands"
+
+[[menu.main]]
+name = "Music Stands For iPads"
+URL = "/music-stands-for-ipads"
+weight = 0
+parent = "Music Stands"
+
+[[menu.main]]
+name = "Music Stands For Drummers"
+URL = "/music-stands-for-drummers"
+weight = 0
+parent = "Music Stands"
+
+[[menu.main]]
+name = "Music Stands For a Tall Person"
+URL = "/music-stands-for-tall-person"
+weight = 0
+parent = "Music Stands"
+
+[[menu.main]]
+name = "Music Stands For Sheet Music"
+URL = "/music-stands-for-sheet-music"
+weight = 0
+parent = "Music Stands"
+
+[[menu.main]]
+name = "Desktop Music Stand"
+URL = "/desktop-music-stand"
+weight = 0
+parent = "Music Stands"
+
+
+[Params.social.share]
+  facebook = true
+  linkedin = true
+  twitter = true
+  whatsapp = true
+  email = true

@@ -1,0 +1,30 @@
+dist: xenial
+
+addons:
+  snaps:
+  - name: hugo
+    channel: extended
+
+before_install:
+  - git clone https://github.com/hugomodo/hugomodo.git ../hugomodo
+  - git -C ../hugomodo checkout master
+
+stages:
+  - name: test
+  - name: deploy
+    if: tag IS present
+
+jobs:
+  include:
+    - stage: test
+      script:
+        - cd ../hugomodo/exampleSite
+        - hugo --themesDir ../../ --config $TRAVIS_BUILD_DIR/exampleSite/config.toml
+    - stage: deploy
+      script:
+        - git remote set-url origin https://${GITHUB_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
+        - git config --global user.email "travis@travis-ci.org"
+        - git config --global user.name "Travis CI"
+        - release_branch=$(echo ${TRAVIS_TAG} | cut -b 2-)
+        - git checkout -b $release_branch
+        - git push -u origin $release_branch
