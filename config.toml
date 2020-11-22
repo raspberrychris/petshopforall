@@ -32,23 +32,23 @@ showFooterCredits = true
 math = true
 
 [[menu.main]]
-name = "Music Stands"
+name = "Pet Supplies"
 URL = "/"
 weight = 1
 
 
 
 [[menu.main]]
-name = "Best Music Stands"
-URL = "/best-music-stands"
+name = "Cats"
+URL = "/cats"
 weight = 0
-parent = "Music Stands"
+parent = "Pet Supplies"
 
 [[menu.main]]
 name = "Wooden Music Stands"
-URL = "/wooden-music-stands"
+URL = "/cats-toys"
 weight = 0
-parent = "Music Stands"
+parent = "Pet Supplies"
 
 [[menu.main]]
 name = "Portable Music Stands"
