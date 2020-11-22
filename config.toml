@@ -39,14 +39,14 @@ weight = 1
 
 
 [[menu.main]]
-name = "Cats"
-URL = "/cats"
+name = "Pet Supplies"
+URL = "/pet-supplies"
 weight = 0
 parent = "Pet Supplies"
 
 [[menu.main]]
-name = "Wooden Music Stands"
-URL = "/cats-toys"
+name = "/cat-trees"
+URL = "/cat-trees"
 weight = 0
 parent = "Pet Supplies"
 
