@@ -7,7 +7,7 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 # Above are configs from hugoBasicExample
 
-title = "Music Stands"
+title = "Pet Shop for All"
 theme = "hugo-primer"
 hasCJKLanguage = true
 summaryLength = 70
