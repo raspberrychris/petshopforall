@@ -19,6 +19,6 @@ Finding a music stand that is reliable, sturdy and is suitable for the task in h
 
 **Disclaimer:**
 
-This site recommends products that are on Amazon Affiliate program, this means we earn a small percentage from Amazon for our recommendations of products.  For every sale through the site it will help support and maintain the site and your help is really appreciated!  For more information check our disclaimer in the footer of the home page.
+Petshopforall.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk.
 
 ![music-stands-logo](https://i.ibb.co/sbd9tCX/musicstands-co-uk-logo.png)
