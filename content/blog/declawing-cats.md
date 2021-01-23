@@ -4,6 +4,8 @@ menu: "blog"
 weight: 2
 ---
 
+![declawing-cats-hairloss](https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1327&q=80)
+
 ## Declawing Cats
 
 It’s shocking to me that a lot of people who have a real love of cats will get their cat declawed.  I think the reason they don’t think twice about doing this is that they are imagining a surgery that would involve something similar to getting our fingernails removed.  After all, a claw is just a nail, isn’t it?  Actually that is not the case.   The analogy between declawing and human hands is more like having our fingers amputated at the last joint.  
