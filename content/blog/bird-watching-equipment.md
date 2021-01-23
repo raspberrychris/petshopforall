@@ -4,6 +4,8 @@ menu: "blog"
 weight: 2
 ---
 
+![bird-watching-equipment](https://images.unsplash.com/photo-1534278854415-5c9afbb021a7?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80)
+
 There is something special about watching birds converge on your bird feeder or occupy a bird house you placed in the yard. It seems like you have contributed to the life of those birds and have contributed to nature. You may also be fortunate enough to get serenaded to by these birds you feed. So if you are planning to feed the birds in your yard what kind of wild bird seed do you need?
 
 There are many different kinds of bird seed available on the market, so it can be a bit confusing trying to figure out what seed you should use. The area that you live will in will determine what kind of birds might visit your yard. With different kinds of birds there are different kinds of food. However there are some bird seed that many different varieties of bird that will be attracted.
