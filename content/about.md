@@ -1,16 +1,16 @@
 +++
 title = "About"
-description = "Musicstands.co.uk is the #1 source for finding the best music stands"
+description = " is the #1 source for finding the best music stands"
 date = "2019-02-28"
 aliases = ["about-us","about-music-stands"]
-author = "musicstands.co.uk"
+author = ""
 menu = "main"
 weight = 5
 +++
 
 ![child-learning-piano](https://images.unsplash.com/photo-1575314113965-c6672a42b99c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
-[Musicstands.co.uk](/) is the #1 guide on the internet to help you discover the perfect **music stand** in the UK.
+[](/) is the #1 guide on the internet to help you discover the perfect **music stand** in the UK.
 
 
 Finding a music stand that is reliable, sturdy and is suitable for the task in hand can be difficult.  Whether you work in education, are part of an orchestra, a gigging musician or a parent browsing for the best music stand for your children, we will help you find the most suitable music stand for your needs.

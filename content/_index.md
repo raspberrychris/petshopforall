@@ -35,7 +35,7 @@ canonicalUrl: “/"
 
 ## Our Guide to the Best Music Stands
 
-At [musicstands.co.uk](musicstands.co.uk) we have created a simple, **easy to follow guide to the best music stands on the market.**  
+At []() we have created a simple, **easy to follow guide to the best music stands on the market.**  
 
 Each music stand is reviewed with its pros and cons and you will get the technical infomation about each music stand.  We know that choosing the right music stand can make all the difference and we hope you find this website useful.
 
