@@ -90,3 +90,40 @@ A common mistake is to assume that we have reinforced or punished behaviour when
 One of the things that your dog needs to learn as early as possible is to come when it is called.
 
 Dogs are man's best friends.
+
+## Mirror Dog training
+
+Dog owners have a hard time trying to train their dogs how to do various things. For example, they want to teach them the basics like taking a poop in the right place or eating at the right time. They also want to teach their dogs how to do fun things like jumping over an obstacle or pretending to be dead. This article examines one training method you can use in order to teach your dogs how to do certain things. This method is called the
+
+## Mirror Dog Training explained
+
+Over the past few years, we have seen various animals do some amazing stuff. For example, we have seeing water skiing squirrels and bears riding their own scooter. These examples are some amazing feats and they are usually accomplished by using a process known as ‘shaping’. This process works for animals of all kinds but it requires a lot of time and patience. It works especially well for domesticated animals like dogs and cats. If you go on Youtube then you can search up some amazing dog tricks videos. These dogs were probably trained to do those amazing tricks by utilizing the mirror dog training method.
+The mirror dog training method was first developed in Hungary and it is not very well known. It is not prominent in other parts of the world where lots of families like to keep dogs. I am pretty sure the mirror dog training method would become more popular once trainers are exposed to it because it is that effective.
+
+When you try and train a dog, it normally goes against the dog’s natural instinct. The mirror dog method however teaches the dog to use those natural instincts in order to use them in useful ways, both outside and at home. Mirror dog training also relies on the trust between the dog and its owners. It works on the premise that the dog’s emotions and behaviors will mirror those of its owners. Some of this mirror effect can occur naturally. For example, there are many domesticated dogs out there that sleeps with its back on the ground. This may seem funny at first but dogs like to adapt to certain positions in order to have a more comfortable lifestyle.
+
+As this training method is relatively new, there are not many dog schools will utilize the mirror dog training method but keep an eye in the future once this method gets exposed to the general public.
+There has been a lot of buzz lately about mirror method training for dogs. The reason for this buzz is that it is a truly amazing training system that allows people to train their dog to do rather incredible tricks.
+What kind of tricks can dogs be taught? Some of the popular tricks I have seen taught with this method include:
+
+Collecting the mail Decorating a Christmas tree Making a bed Really the list is about as endless as your imagination. But will it work with any dog? The short answer is yes, mirror method training for dogs will work well for any dog regardless of age or breed. Although some dog breeds are quicker to pick up tricks than others, this method will work for all of them.
+
+The way that it works is simple, dogs naturally want to mirror our actions. This method encourages this tendency in dogs by rewarding them for mirroring the desired actions. Eventually a ‘clicker’ is used to reinforce the desired behavior. Teaching a dog a complex trick using this method is easy because you simple do it one step at a time and the dog will catch on to the steps amazingly quickly.
+The best thing about the method is its simplicity. Any person with the right resources can quickly teach their dog to do amazing tricks like setting a table (or even clearing the table for that matter). It doesn’t take much time because it relies on the natural tendencies of your dog.
+
+There are many benefits of clicker training your dog, here are a few to help you decide if this is the way you want to train your dog.
+With clicker training your dog offers the behaviour you want, hence you will rely less on your commanding the dog, which makes for a less stressed dog and owner.
+You will work and reinforce wanted behaviour with your dog, it is all positive creating a good environment for you and your dog. The dog want to work and will enjoy the training, again, the dog is working in a positive environment.
+The dog is not forced into behaving in a certain way because it is following commands, it actually offers the behaviour voluntarily. You are less dependent on forcing behaviour onto your dog. The dog wants to work, therefore you do not have the risk of a bad relationship, believe me the dog will want to work with the clicker and you.
+The timing of the reinforcement of wanted behaviour is crucial and the clicker being the reinforcer can really speed up the process of this reinforcement and get faster results.
+It really is great fun, yes that’s right it is great fun. Once the method has ‘clicked’ (excuse the pun) as to how this training actually works, then you really will realise the potential this type of dog training has and how it can be applied in any situation, new or old for you and your dog.
+
+Once your dog is clicker savvy, you can relay on it to want to please you and be easily trained on any new types of behaviour you want it to display.
+Good luck and have fun.
+
+Dogs are incredible animals that can be trained to do just about anything you can imagine. The secret to teaching your pet is all in the training method you use. The most incredible training method developed is a relatively recent one: mirror method dog training. Few people know about this technique, but it is the easiest and most effective technique for training a dog to accomplish complex tasks (like decorating a Christmas tree).
+Mirror method dog training relies on a dog’s natural instincts, inclinations and desires. For example, dogs naturally love to fetch objects. Fetching can therefore be used as the basis for other actions, such as bringing Christmas decorations to the tree. This method of training begins with simple, natural actions and builds upon them until they gradually become quite impressive.
+
+The reason that it is called the mirror method is because it relies on the natural tendencies of dogs to mirror the actions and emotions of their human owners. By being aware of this tendency it is possible to encourage specific behaviours in a dog with very little effort.
+
+This method of training is just emerging into popularity, one of its greatest benefits (aside from being easy) is that not a lot of people know about it yet. This means that you can be the first amongst your friends to have a dog capable of amazing tricks without expending a great deal of effort or paying for expensive training programs. In fact, while mirror method dog training schools are not common yet, there are books and videos available that will allow you to use the method effectively.
