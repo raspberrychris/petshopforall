@@ -4,6 +4,8 @@ menu: "blog"
 weight: 2
 ---
 
+![cat-health-problems](https://images.unsplash.com/photo-1511694009171-3cdddf4484ff?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+
 ## Cat Constipation Remedies
 
 Constipation in cats is a common thing, since hairballs itself can lead to constipation. This is a cat health problems as there is no regular amount of times a cat should defecate.  So you must keep an eye out and see if they are even trying, if they are do you see them straining?  Is there less stool?  Is it painful for your cat?  These are all tell tail signs that they are more than likely constipated.  There are many different ways for a cat to be constipated.  It can be their diet to something more serious as tumours.  To get better diagnoses of what type of constipation your cat has consult your Vet.

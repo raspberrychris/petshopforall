@@ -15,7 +15,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 googleAnalytics = ""
 disqusShortname=""
-copyright = "&copy; 2020"
+copyright = "&copy; 2021"
 
 
 
@@ -50,77 +50,6 @@ URL = "/cat-trees"
 weight = 0
 parent = "Pet Supplies"
 
-[[menu.main]]
-name = "Portable Music Stands"
-URL = "/portable-music-stands"
-weight = 0
-parent = "Music Stands"
-
-[[menu.main]]
-name = "DIY Music Stands"
-URL = "/DIY-music-stands"
-weight = 0
-parent = "Music Stands"
-
-[[menu.main]]
-name = "Heavy Duty Music Stands"
-URL = "/heavy-duty-music-stands"
-weight = 0
-parent = "Music Stands"
-
-[[menu.main]]
-name = "Conductor Music Stands"
-URL = "/conductor-music-stands"
-weight = 0
-parent = "Music Stands"
-
-[[menu.main]]
-name = "Folding Music Stands"
-URL = "/folding-music-stands"
-weight = 0
-parent = "Music Stands"
-
-[[menu.main]]
-name = "Music Stands For Schools"
-URL = "/music-stands-for-schools"
-weight = 0
-parent = "Music Stands"
-
-[[menu.main]]
-name = " Music Stands For Keyboards"
-URL = "/music-stands-for-keyboards"
-weight = 0
-parent = "Music Stands"
-
-[[menu.main]]
-name = "Music Stands For iPads"
-URL = "/music-stands-for-ipads"
-weight = 0
-parent = "Music Stands"
-
-[[menu.main]]
-name = "Music Stands For Drummers"
-URL = "/music-stands-for-drummers"
-weight = 0
-parent = "Music Stands"
-
-[[menu.main]]
-name = "Music Stands For a Tall Person"
-URL = "/music-stands-for-tall-person"
-weight = 0
-parent = "Music Stands"
-
-[[menu.main]]
-name = "Music Stands For Sheet Music"
-URL = "/music-stands-for-sheet-music"
-weight = 0
-parent = "Music Stands"
-
-[[menu.main]]
-name = "Desktop Music Stand"
-URL = "/desktop-music-stand"
-weight = 0
-parent = "Music Stands"
 
 
 [Params.social.share]
