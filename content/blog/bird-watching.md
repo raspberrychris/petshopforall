@@ -7,7 +7,7 @@ weight: 2
 
 Bird watching is one of the fastest growing interests in the world. If you’re buying for a bird watcher, here’s a primer on ideas for bird watching gifts.
 
-Bird Watching Gifts
+## Bird Watching Gifts
 
 Bird watching may seem the simplest of tasks. In truth, there are lots of gadgets, which gives you an opportunity to find great bird watching gifts
 
@@ -21,16 +21,7 @@ Bird watching may seem the simplest of tasks. In truth, there are lots of gadget
 
 Bird watching is sweeping the world. Now you know what to buy bird watching enthusiasts for the holidays.
 
-There is more information available on There is more content available about [free download music](https://web.archive.org/web/20111112215119/http://freedownloadmusicv.com/) there’s plenty of information not outlined in this post, take a look at the author’s website to locate further details. there is a lot of details not detailed on this page, take a look at author’s website to discover more.
-
-<div>
-
 [![](https://web.archive.org/web/20111112215119im_/http://www.webcontentvips.com/wp-content/themes/wpArticleDirectory/images_generic/tweet.png)](https://web.archive.org/web/20111112215119/http://twitter.com/home?status=Just%20read%20Bird Watching Gifts – Holiday Gift Ideas%20I%20found%20it%20here...%20http://tinyurl.com/7qmy4w4 "Bird Watching Gifts – Holiday Gift Ideas")
-
-<span class="meta-prep meta-prep-author">This article was prepared for you by</span> <span class="author vcard">[HeitgerFroeschle680](https://web.archive.org/web/20111112215119/http://www.webcontentvips.com/author/heitgerfroeschle680/ "View all articles by HeitgerFroeschle680"), one of our ‘Authors’.</span>  
-Visit this authors<span class="author vcard"> [profile page](https://web.archive.org/web/20111112215119/http://www.webcontentvips.com/author/heitgerfroeschle680/ "View the public profile page of author HeitgerFroeschle680") and learn more about them & the articles they write.</span>
-
-_<span class="Apple-style-span">Posted by [Kevin Doxstater](https://web.archive.org/web/20111112215119/http://www.naturalvisionsphoto.com/blog/)</span>_
 
 In the 12 years I’ve been actively watching birds I’ve often found myself  intrigued – and sometimes confused – by some of the names, both common and scientific (Latin). Currently in the midst of a top secret bird -related project, I’ve had a chance to go over the complete A.O.U. checklist and, along with some I’ve known about for a while, found a few interesting names along the way.
 
