@@ -7,9 +7,11 @@ weight: 2
 ![adopting-a-kitten](https://images.unsplash.com/photo-1606053419026-2433fb5ae89e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=941&q=80)
 
 Adopting a kitten can be a fun thing for your family. But, you want to make sure you get one that has the type of personality you want. Some kittens are shy while others can be hellions.
+
 Most municipalities, if not all, have organisations that are formed with the sole intention of taking care of abandoned pets. Whilst they are completely dedicated to improving the welfare of animals they are also open to pet adoptions. When a cat has just given birth to a litter of cats the costs of taking care of the kittens can be so high that the best next alternative is for them to put up their animals for adoption.
 
 If you are looking at adopting a kitten then these organisations are the place for you! You can usually find them under “humane society” or “animal shelter” in your phone book. Be prepared to answer some questions though as they don’t just let anyone adopt a kitten and the will want to ensure that you will care for the animal properly before you take it home.
+
 Adopting a kitten is not something to be taken lightly. Although cats are very easy to care for you must be sure that you have the proper food for the kitten as well as a good litter box, comfortable bedding for him to snuggle up in and some toys. Also, you must commit to minimal veterinary expenses and make sure the animal has all it’s vaccinations as well as yearly checkups.
 
 When it comes to animals hair loss is always a sign that something is wrong, especially if the animal is still too young to be losing hair. Cat hair loss is not as common as other cat illnesses and because of this little is known about what exactly causes it. If you are eager to know more about this condition you must read on, the information might save the life of your cat.
@@ -17,11 +19,15 @@ When it comes to animals hair loss is always a sign that something is wrong, esp
 The diet your cat subscribes to has a great impact on the loss of hair. When you do not feed the cat good quality food the losing of hair can be triggered. Allergies cause a discomforting itchiness in scenarios where the cat is allergic to certain foods.
 
 So as the cat scratches away at its skin the hair will come off and skin can become even more irritated. Unless if you have not noticed an animal that is feed all the right food always has a shiny coat of fur. But if it is ill fed its hair will feel dry and appear dull.
+
 If your pet is suffering from cat hair loss, you can buy hypo allergenic food. Because cats are carnivores it is imperative that their diet is mainly composed of meat. You can either buy prepared pet food that is sold in tins or buy fresh meat and cook it for your cat. If you have no idea on what exactly to buy then consult with a registered veterinarian to find out what to buy. But over and above anything meaty should suffice if it is prepared well.
+
 Fungal infections like ringworm can also bring about cat hair loss. Lesions that are circular in structure should appear on the surface of its skin, generally on the face, tail or ears. Such lesions normally leave portions harbouring the ringworm without hair and such areas will be scaly in the middle.
 
 It’s not easy to know how your cat is feeling because it is their instinct to hide any sign of illness or weakness from you. But, in order to provide them the proper care, it’s important to know if they are sick. Simply knowing how to monitor cat health will be a world of benefit for you if you seriously love and adore your pet. There are a variety of ways to know whether your pet is healthy and I will surely reveal some of those in this article.
+
 Set up regular appointments with the veterinarian and see to it that you take your cat for regular check ups. Because these animal experts know just about everything there is about animal health they are always the smartest option. So if there is anything wrong with the cat any diseases or illnesses will be immediately spotted and sidelined for treatment.
+
 One of the main reasons why visits to the vet are worthwhile is that you get expert advice on all different aspects of cat health including their grooming and dental care. There are so many scenarios where someone might assume to know what is best for the cat when they know nothing at all. Sometimes treatments need to be specific to the type of illness they are meant to address. Therefore the advice from your neighbour can be misdirected.
 
 Buy a book on cat health. Books written by professionals normally tackle all the aspects of cat grooming, from birth to their eventual death. Using the simple information in such books you will be able to take care of a cat without having to waste money on habitual visits to a vet.
@@ -31,9 +37,10 @@ Another useful resource is the internet. But instead of visiting general informa
 Cat illnesses are a real concern to pet lovers who have to sometimes deal with the trauma of seeing their beloved pet get sick battle. The look of struggle and pain as a rampant illness causes an animal to twist its face in pain is disconcerting even to the savage and heartless. If you have a pet cat and you would like to know a few things about pet illnesses then it is advisable for you to keep reading.
 
 One disease that can be a problem for outdoor cats is Lyme disease. Lyme disease is an illness that is caused by tick bites amongst animals. One particular instance is when a cat is bitten by the same tick that bites a dog. The second scenario is rare though with deer ticks being the primary cause of the disease being transmitted from one animal to the next.
+
 Common signs and symptoms of this cat illness are: fever, loss of appetite and nausea. However, some of the most fatal symptoms such as a very rare bleeding from the mouth are easily detected when the cat goes for a scan. That is why it is recommended that you take your pet to the vet for regular checkups each year.
 
-Feline leukaemia is one disease that is more lethal than others and it is caused by a viral infection that weakens the immune system of your cat. With this disease come a host of other complications such as cancer and cat AIDS. When a cat suffers from this leukaemia its natural defense system is rendered useless, allowing the virus to take its toll on an already weakened immune system. Luckily, you can have your cat vaccinated against this disease and if you keep your cat indoors, the likelihood of him contracting it is slim.
+Feline leukaemia is one disease that is more lethal than others and it is caused by a viral infection that weakens the immune system of your cat. With this disease come a host of other complications such as cancer and cat AIDS. When a cat suffers from this leukaemia its natural defence system is rendered useless, allowing the virus to take its toll on an already weakened immune system. Luckily, you can have your cat vaccinated against this disease and if you keep your cat indoors, the likelihood of him contracting it is slim.
 
 The symptoms of cat illness may be very subtle because cats like all animals do not like to show when they are sick. That’s why it is a good idea to get your cat to the vet if you notice any behaviour that is unusual or a change in his eating or bathroom habits. Of course, regular vet visits help to keep your cat healthy and free from illness too.
 
