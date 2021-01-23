@@ -1,6 +1,6 @@
 ---
 title: "Bird Watching gifts"
-menu: "main"
+menu: "blog"
 weight: 2
 ---
 
