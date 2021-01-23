@@ -4,6 +4,8 @@ menu: "blog"
 weight: 2
 ---
 
+![ear-problems-pets](https://images.unsplash.com/photo-1603349136483-c9087327668c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80)
+
 ## Ear Problems in Pets and the Solutions
 
 Ear infections and problems are one of the top reported problems faced by many pet owners. Does your dog or cat shake their head and scratch their ears or rub their ears against the ground or furniture? Do you ever notice a foul smelling, discharge in their ears, black, yellowish or brown in colour? Are their ears red and tender? These are all signs of an ear infection or problem in your pets.
