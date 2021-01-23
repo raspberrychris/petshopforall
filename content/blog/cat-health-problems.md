@@ -6,6 +6,32 @@ weight: 2
 
 ![cat-health-problems](https://images.unsplash.com/photo-1511694009171-3cdddf4484ff?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
+Owning a cat and treating it as a pet requires more than including your furry friend on your monthly budget. You have to be an instant parent once you become involved. You need to know as much cat health information as possible in order to know their basic needs and all there is to understand about cat health care.
+
+First, in order for your feline companion to be happy and contented, you need to provide them a home. Yes, it can be left to wander about your own house and treat it like their kingdom. But you have to make sure that the surrounding is safe. Do not hang about things that would cause injury and further mishaps to your cats.
+Second, make sure that your cat gets the necessary nutrition that it needs. To do so, you have to give them only the best kind of cat food. The best will not necessarily mean expensive. You can ask your vet for recommendations given the amount that you can allot for this purpose.
+
+And lastly, think about your cat health care. This is so vital because if you were caught unaware of a sudden incident, you may easily lose you beloved pet just because you didn’t know what to do.
+
+So know your cat. Observe it well. Know their usual interests, the way they eat, they way they interact with the other pets and also the people in your house. If you feel that something seems to be out of place, then call your vet immediately for advice.
+So find a veterinarian nearest your place and get their contact information immediately. They are your lifeline whenever your cat’s life seems to be in danger.
+You will be the first judge if something seems to be wrong with your cats. Here are some indications.
+
+## Grooming Style
+
+These creatures are known to be vain. They are always grooming themselves. If they are grooming too much on one side, they might be bugged by something like, yes, bug or fleas. The process may hurt them. So interrupt and act upon it.
+Also beware if they are no longer cleaning up on their own. It may be a sign of depression. You also have to consult the vet about it if this happens.
+Eating Style
+
+If you know your cat very well, you will easily see if there are any changes to their eating habits. Don’t let them go through the day without eating too much. This may be a symptom to something else. So this is also a good time to call on your vet.
+
+## The Behaviour
+
+If your cat is friendly and it all of a sudden becomes aloof, you need to raise the alarm level. This also goes with the way your cat walks. If it seems to be doing this thing just a bit too odd, it may be something to be concerned about.
+As the owner, you need to be very cautious with everything that your cat does. You have to take note of their vowel elimination. Just like humans, they may sometimes suffer from diarrhoea or the likes.
+
+Although calling the vet is always the best choice for you to do, you can also search the web for quick solutions to minor problems. The Internet offers a vast resource for your every cat health care question. So take time to read some info and apply it on your own pets.
+
 ## Cat Constipation Remedies
 
 Constipation in cats is a common thing, since hairballs itself can lead to constipation. This is a cat health problems as there is no regular amount of times a cat should defecate.  So you must keep an eye out and see if they are even trying, if they are do you see them straining?  Is there less stool?  Is it painful for your cat?  These are all tell tail signs that they are more than likely constipated.  There are many different ways for a cat to be constipated.  It can be their diet to something more serious as tumours.  To get better diagnoses of what type of constipation your cat has consult your Vet.
