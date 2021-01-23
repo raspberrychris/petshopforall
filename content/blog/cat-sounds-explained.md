@@ -41,15 +41,15 @@ If your cat starts to hiss it is a sure sign it feels threatened. One of my cats
 
 If a cat is faced with a dog you might see it arch its back and emit a loud hissing noise, indicating that it feels threatened.
  
-## Why Do Cats Growl
+## Why Do Cats Growl?
 
 When a cat makes a growling sound, which may also be accompanied by some hissing its usually saying back off!! An example would be when a tom encroaches on another toms territory. Depending on the situation though, growling can also be a sign of the cat being anxious or afraid.
  
-## Why Do Cats Chatter
+## Why Do Cats Chatter?
 
 When my cat sits by the window and suddenly spots a bird on the grass she will start to make a rapid chattering sound. Cats are thought to do this either due to the excitement of spotting potential prey or out of the frustration it feels at not being able to get at it. There is also a theory that it’s nothing more than an instinctive reflex action due to the cats anticipation of making the killing bite.
  
-## Why Do Cats Yowl
+## Why Do Cats Yowl?
 
 The yowl usually is a mating call made by a female cat in heat. You may hear this outside particularly at night when female attempts attract a male. It may be a problem especially if it’s your female cat inside the house at night keeping you awake, however there is one easy remedy, neutering.
 
@@ -57,4 +57,4 @@ As with many of the sounds our cats make, it may also be a sign of pain, distres
 
 As you can see the topic of cat sounds and what they mean isn’t straight forward.  Our cats are all slightly different and use variations of those sounds when communicating with us.  With a new cat or kitten you will soon learn what your cat wants depending on the sounds it makes.
 
-Do any of your cats make any different noises?  How does your cat grab your attention? 
+**Do any of your cats make any different noises?  How does your cat grab your attention?**
