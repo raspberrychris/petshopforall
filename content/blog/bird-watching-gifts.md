@@ -21,8 +21,6 @@ Bird watching may seem the simplest of tasks. In truth, there are lots of gadget
 
 Bird watching is sweeping the world. Now you know what to buy bird watching enthusiasts for the holidays.
 
-[![](https://web.archive.org/web/20111112215119im_/http://www.webcontentvips.com/wp-content/themes/wpArticleDirectory/images_generic/tweet.png)](https://web.archive.org/web/20111112215119/http://twitter.com/home?status=Just%20read%20Bird Watching Gifts – Holiday Gift Ideas%20I%20found%20it%20here...%20http://tinyurl.com/7qmy4w4 "Bird Watching Gifts – Holiday Gift Ideas")
-
 In the 12 years I’ve been actively watching birds I’ve often found myself  intrigued – and sometimes confused – by some of the names, both common and scientific (Latin). Currently in the midst of a top secret bird -related project, I’ve had a chance to go over the complete A.O.U. checklist and, along with some I’ve known about for a while, found a few interesting names along the way.
 
 At times one has to wonder what went/goes into the thought process in naming some species. Some common names, of course, are very descriptive choices. Who could argue with the appropriately named Painted Bunting or Vermilion Flycatcher? Some names are based on the sounds they make: the chickadees, Great Kiskadee, and Killdeer are just a few examples.
