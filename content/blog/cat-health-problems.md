@@ -52,3 +52,43 @@ Hookworms are a common intestinal parasite in both cats and dogs.  They have te
 ## Heart worms
 
 Heartworms are a fatal parasitic worm living in the lungs and heart in cats.  Cats are very vulnerable to heart worms and can lead to death.  Look out for these signs, coughing, wheezing, difficult breathing, vomiting, weight loss.  There are some cats that do not show any signs and die suddenly.
+
+## Further Cat Health Issues
+
+Pet cat health care may be similar to caring for other pets. But such care may also have its own differences. One of them is that pet cats may suffer from a host of different diseases that other pets may not go through. Here is a list of some feline diseases that pet cats may suffer from at some point.
+
+## Feline Distemper
+
+This disease usually affects pet cats at a young age. Known medically as feline panleukopenia, this type of viral infection lowers down the immune defenses of young kittens by severely affecting the production of white blood cells. This infection can make young kittens pass, liquid stool with blood due to the severe hemorrhaging that happens in their small intestine.
+
+Fever may also be expected and will lead the young kitten to become depressed and then refuse to take any food and water. It may seem to the pet owner that the cat has a temperamental personality, hence the name feline distemper. The infection actually has no effect on the cat’s personality in any way. Sadly, recovery for such conditions is very rare for a cat.
+
+## Feline Infectious Peritonitis
+
+This is another viral infection that is also fatal in cats. Once your pet cat shows signs of this infection, it can take years and years of trouble. This infection is usually common mostly in young adult cats and can be transmitted to other cats. There are two known types of this infection.
+
+There is the “dry” type where the young adult cat is affected by high fever as well as problems with internal organs such as the kidneys, lungs and the intestines. With this type of infection, the cats never seem improve no matter how well the treatment is given.
+There is also the “wet” type of the disease has the young adult cat having a fluid discharge within the abdomen. Occasionally the cat’s chest displays a golden and dense liquid that contains flakes within. This infection makes the cat run a high fever and would usually not eat well.
+
+The only protection that cats can have over the disease is vaccination. But vaccines should be given to pet cats prior to any exposure to the virus or else the vaccine would not be very effective to prevent any infection.
+
+## Feline immune Deficiency Virus
+
+This disease is similar to the Human Immune Deficiency Virus or HIV in humans. This virus in only found in cats and is being spread mainly through a bite from an infected cat. This disease suppresses the cat’s immune system and leads the cat to be more prone to all sorts of infection. There is an intranasal vaccine available to protect cats from the FIV infection although some veterinarians are not that convinced that it can protect more effectively as compared to other vaccines.
+
+## Feline Leukemia Virus
+
+This virus can severely limit an infected cat’s immune system. With the affected immune system, the cat has limited ability to defend against all sorts of other infections. This virus can be spread from contact with infected cats. Many cats can become carriers of the virus for years without displaying any outside symptoms of the infection.
+Cats harboring the virus may at times develop clinical signs of the infection if they undergo surgery, get injured or when they get lost outside their usual environment. These diseases may give pet owners an idea of how pet cat health care may be important to ensure that their pets live healthier and longer lives.
+
+### Recommended Resource
+
+Everyone knows the basics of cat ownership: try to get yourself a healthy cat, make sure you’ve got a litter box, feed it regularly, etc etc. But it’s the details that seem to elude us – or me, certainly. How much are you meant to feed it? How are you actually meant to house train a cat? How should you react when your cat presents you with a gruesome, bloodied bird carcass? Why do cats destroy your furniture (and not the expensive carpet-post you bought) – and, more importantly, how can you stop them from doing this? How do you deal with aggression? How are you even meant to know which breed and individual cat is going to suit you the best?
+
+The Complete Cat Health Care Guide has the answers to all these questions, and deals with the issues most pertinent to cat owners in a conversational yet informative style that’s very user-friendly. There’s no confusing terminology, no unclear or contradictory tips – nothing but relevant, helpful information, practical recommendations, and hands-on advice. It really is all covered!
+
+### The Best Parts
+
+It’s pretty reassuring, from a consumer’s point of view, to be offered a no-questions-asked, money-back guarantee. Upon downloading this book, you get 60 whole days to read and utilise the cat care information and strategies included in the volume – and if you’re not completely satisfied, a guaranteed full refund is available. It’s a refreshing show of confidence from the authors, and goes a long way towards assuaging any possible doubts that prospective buyers might have.
+
+I’d definitely recommend this guide to anyone who’s even considering buying a cat. The information contained within is absolutely indispensable, and will go a long way towards guaranteeing a happy, healthy relationship with your pet.
