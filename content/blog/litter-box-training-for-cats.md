@@ -4,6 +4,8 @@ menu: "blog"
 weight: 2
 ---
 
+![litter-box-training-for-cats](https://images.unsplash.com/photo-1610117099622-ef204ef28a03?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=973&q=80)
+
 ## Litter Box Training
 
 Most cats you get from a shelter or pet store are already litter box trained, but kittens need to learn to use the box and adult cats can often regress from using the box for one reason or another.
