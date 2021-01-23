@@ -1,6 +1,6 @@
 baseURL = "/"
 author = ""
-paginate = 3
+paginate = 10
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -10,7 +10,7 @@ footnoteReturnLinkContents = "^"
 title = "Pet Shop for All"
 theme = "hugo-primer"
 hasCJKLanguage = true
-summaryLength = 70
+summaryLength = 10
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 googleAnalytics = ""
