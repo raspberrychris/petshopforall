@@ -4,18 +4,25 @@ menu: "main"
 weight: 2
 ---
 
+![bird-watching-gifts](https://images.unsplash.com/photo-1604248852285-d96e39520b52?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80)
 
 Bird watching is one of the fastest growing interests in the world. If you’re buying for a bird watcher, here’s a primer on ideas for bird watching gifts.
 
-## Bird Watching Gifts
+# Bird Watching Gifts
 
 Bird watching may seem the simplest of tasks. In truth, there are lots of gadgets, which gives you an opportunity to find great bird watching gifts
 
-1\. Binocular Pack Straps – Where you find bird watchers, you’ll find binoculars. Binoculars are the staple equipment item of all birders. The problem, however, is binoculars have a habit of flopping around your body when walking and putting a strain on your neck. Any bird watcher would love to find a solution and binocular pack straps are the answer. They look like backpack straps and snuggly hold binoculars to your body while you walk. Brunton is a great brand and you can expect to pay $30 or so.
+## 1. Binocular Pack Straps
 
-2\. The Birder’s Handbook – The Birder’s Handbook is a great companion piece for any birder. Over 600 species are covered and all can be found in North America. This book is an excellent list for bird watching enthusiasts to compare their life lists against. The list price of the book is $20.00 and you can find it at any only bookstore.
+– Where you find bird watchers, you’ll find binoculars. Binoculars are the staple equipment item of all birders. The problem, however, is binoculars have a habit of flopping around your body when walking and putting a strain on your neck. Any bird watcher would love to find a solution and binocular pack straps are the answer. They look like backpack straps and snuggly hold binoculars to your body while you walk. Brunton is a great brand and you can expect to pay $30 or so.
 
-3\. Bird Cams – If backyard bird watching is the primary bird watching activity of the person your giving gifts to, bird cams are great gifts. The bird cam sits inside of the bird house and lets birders see the birds in action. A fascinating view of a bird’s life. Night-Owl and NovaBird make solid cams. You can expect to pay $80 to $300 for a solid cam.
+## 2. The Birder’s Handbook
+
+– The Birder’s Handbook is a great companion piece for any birder. Over 600 species are covered and all can be found in North America. This book is an excellent list for bird watching enthusiasts to compare their life lists against. The list price of the book is $20.00 and you can find it at any only bookstore.
+
+## 3. Bird Cams
+
+If backyard bird watching is the primary bird watching activity of the person your giving gifts to, bird cams are great gifts. The bird cam sits inside of the bird house and lets birders see the birds in action. A fascinating view of a bird’s life. Night-Owl and NovaBird make solid cams. You can expect to pay $80 to $300 for a solid cam.
 
 4\. Nomad Bird Watching Journals – A little self-promotion. Nomad Bird Watching Journals are great gifts for bird watching enthusiast. Whether they enjoy bird watching tours, backyard birding or bird watching vacations, these journals let bird watchers keep track of sightings, conditions, locations, people met and impressions of the birding experience. A great Christmas gift, you can see the journal by clicking the link in the byline of this article and expect to pay $25 for the journal with case.
 
