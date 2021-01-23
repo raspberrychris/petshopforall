@@ -1,4 +1,4 @@
-defencebehaviour---
+---
 title: "Adopting a Kitten"
 menu: "blog"
 weight: 2
